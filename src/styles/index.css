@@ -9,6 +9,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+  --brand: #50e3c2;
+  --brand-dark: #2f9f9f;
+  --text: #2f3237;
+  --base: #fff;
+  --nav: #222222;
+  --background: #f2f1ef;
 }
 
 /*
